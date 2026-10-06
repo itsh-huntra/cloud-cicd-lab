@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+ 
+# ข้อมูลลับและไฟล์ตั้งค่าส่วนตัว
+.env
+ 
+# ไฟล์ Log
+*.log
+npm-debug.log*
